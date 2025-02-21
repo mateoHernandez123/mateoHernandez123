@@ -35,15 +35,26 @@
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
+
+  <br/>
+  
  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,sql,mysql" />
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
     </a>
   </p>
   
   <!-- Tools -->
   </br>
   <h3>Tools</h3>
+
+  <br/>
+
+   <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes" />
+    </a>
+  </p>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
     width="60px"
