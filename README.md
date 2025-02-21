@@ -11,6 +11,12 @@
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,html" />
+  </a>
+</p>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
