@@ -26,7 +26,7 @@
 
    <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring, maven, nodejs, angular, react, bootstrap" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,bootstrap" />
     </a>
   </p>
   <img
