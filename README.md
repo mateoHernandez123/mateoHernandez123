@@ -18,7 +18,7 @@
   </br>
   <h3>💻 Languages</h3>
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a  href="https://www.linkedin.com/in/mateo-hernandez-/">
       <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" />
     </a>
   </p>
@@ -27,8 +27,8 @@
   </br>
   <h3>🔧 Frameworks</h3>
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,bootstrap" />
+    <a  href="https://www.linkedin.com/in/mateo-hernandez-/">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,bootstrap,materialui" />
     </a>
   </p>
  
@@ -36,7 +36,7 @@
   </br>
   <h3>📦 Databases</h3>
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/mateo-hernandez-/">
       <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
     </a>
   </p>
@@ -45,7 +45,7 @@
   </br>
   <h3>🛠️ Tools</h3>
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/mateo-hernandez-/">
       <img src="https://skillicons.dev/icons?i=git,docker,kubernetes" />
     </a>
   </p>
@@ -53,7 +53,7 @@
   </br>
   
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/mateo-hernandez-/">
       <img src="https://skillicons.dev/icons?i=idea,vscode" />
     </a>
   </p>
@@ -66,12 +66,11 @@
   <p>Feel free to reach out to me via LinkedIn or explore my GitHub repositories!</p>
   </br>
   
-  <a href="https://www.linkedin.com/in/mateo-hernandez-/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
-      alt="LinkedIn">
-  </a>
-
+   <p align="center">
+    <a href="https://www.linkedin.com/in/mateo-hernandez-/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </p>
   </br>
   
   <img
