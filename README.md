@@ -55,34 +55,18 @@
       <img src="https://skillicons.dev/icons?i=git,docker,kubernetes" />
     </a>
   </p>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-    width="60px"
-    alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
-    width="60px"
-    alt="Kubernetes">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    width="60px"
-    alt="Docker">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   </br>
+  <br/>
+  <br/>
+
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=idea,vscode" />
+    </a>
+  </p>
   
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
-    width="60px"
-    alt="IntelliJ">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-    width="60px"
-    alt="VS Code">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
   
 </div>
 
