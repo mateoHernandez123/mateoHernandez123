@@ -24,58 +24,22 @@
   </br>
   <h3>Frameworks</h3>
 
+  <br/>
+
    <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,bootstrap" />
     </a>
   </p>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-    width="60px"
-    alt="Spring (Spring-boot)">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
-
-  </br>
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-    width="60px"
-    alt="NodeJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-    width="60px"
-    alt="npm">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-    width="60px"
-    alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-    width="60px"
-    alt="React">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    width="60px"
-    alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
+ 
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    width="60px"
-    alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,sql,mysql" />
+    </a>
+  </p>
   
   <!-- Tools -->
   </br>
