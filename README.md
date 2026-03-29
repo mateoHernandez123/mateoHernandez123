@@ -17,8 +17,6 @@
 
 I'm a **Software Engineer** from **Argentina**. I like turning requirements into **management systems**, **web apps**, and interfaces that stay clear as the product grows. I care about **code quality**, **teamwork**, and shipping work that is **maintainable**.
 
-I'm strongest on the **front end**, and I'm actively growing **back-end** skills — including **Go** for services and APIs.
-
 ---
 
 ## GitHub activity
