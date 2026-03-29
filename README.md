@@ -5,7 +5,7 @@
   alt="Mateo Hernandez — Software Engineer"
 />
 
-### Software Engineer · Front-end–leaning · Learning Go & APIs
+### Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&lines=Building+web+apps+%26+management+systems;Clean+UI+%2B+maintainable+code;Open+to+collaboration" alt="Typing intro" />
 
@@ -70,10 +70,6 @@ I'm a **Software Engineer** from **Argentina**. I like turning requirements into
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Si alguna imagen falla: son servicios de terceros; probá más tarde o desplegá tu propia instancia (ver repos oficiales de cada proyecto).</sub>
-</p>
 
 ---
 
